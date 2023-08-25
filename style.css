@@ -123,3 +123,9 @@ html , body{
     font-size: 12px;
     width: 15%;
 }
+   @media screen,(max-width:500px){
+    .heading{
+        text-align: center;
+    }
+}     
+
