@@ -93,13 +93,13 @@ html , body{
     flex-direction: column;
     align-items: flex-end;
     padding-right:50px ;
-    width: 48%;
+    width: 50%;
     border-right: 2px solid black;
     
 }
 .details .d-left p{
     width: 40%;
-    font-size: 12px;
+/*     font-size: 12px; */
     text-align: right;
 
 
@@ -111,7 +111,7 @@ html , body{
     margin: 20px 0;
 }
 .details .d-right{
-    width: 48%;
+    width: 50%;
 }
 .details .d-right .feat{
     display: flex;
@@ -120,7 +120,7 @@ html , body{
 }
 .feat p{
     margin-top: 10px;
-    font-size: 12px;
+/*     font-size: 12px; */
     width: 15%;
 }
    @media screen,(max-width:500px){
